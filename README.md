@@ -1,0 +1,2 @@
+# Catgirlbot
+Bot for Discord
